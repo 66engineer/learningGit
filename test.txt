@@ -2,3 +2,5 @@ Git is a version control system.
 Git is free software.
 
 Let's test what would happened if we modify something.
+
+Let's test checkout a new branch.
